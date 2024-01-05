@@ -1,0 +1,2270 @@
+
+html {
+	font-size:55%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 172.8rem;
+}
+
+.resturent-website-s1N {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #fcfcfc;
+}
+.resturent-website-s1N .auto-group-ct52-H56 {
+  box-sizing: border-box;
+  padding: 2rem 15.4rem 0.8rem 15.4rem;
+  width: 100%;
+  height: 10rem;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0.4rem 3rem rgba(0, 0, 0, 0.1000000015);
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-ct52-H56 .logo-Wc4 {
+  margin: 0rem 20.311rem 1.1rem 0rem;
+  width: 10.8893rem;
+  height: 4.1rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-ct52-H56 .home-abv {
+  margin: 0rem 6rem 0.6rem 0rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #39da49;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-ct52-H56 .group-19-rJY {
+  margin: 1.8rem 5.734rem 2.4rem 0rem;
+  height: calc(100% - 4.2rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-ct52-H56 .group-19-rJY .menu-mAc {
+  margin-right: 1.3rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #272727;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-ct52-H56 .group-19-rJY .group-2-5SC {
+  margin-top: 0.3657rem;
+  width: 1.1657rem;
+  height: 0.5657rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-ct52-H56 .group-17-CFv {
+  margin: 1.8rem 5.134rem 2.4rem 0rem;
+  height: calc(100% - 4.2rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-ct52-H56 .group-17-CFv .services-vBv {
+  margin-right: 2.1rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #272727;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-ct52-H56 .group-17-CFv .group-1-FEC {
+  margin-top: 0.3657rem;
+  width: 1.1657rem;
+  height: 0.5657rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-ct52-H56 .offers-anG {
+  margin: 0rem 29.8rem 0.6rem 0rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #272727;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-ct52-H56 .icon-search-JiG {
+  margin: 0rem 4.6rem 0.2rem 0rem;
+  width: 3.2rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-ct52-H56 .auto-group-i1ba-ouv {
+  margin: 1.5rem 2.3rem 0rem 0rem;
+  width: 3.3rem;
+  height: 5.7rem;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-ct52-H56 .auto-group-i1ba-ouv .auto-group-mvjy-K7a {
+  width: 100%;
+  height: 3rem;
+  position: relative;
+}
+.resturent-website-s1N .auto-group-ct52-H56 .auto-group-i1ba-ouv .auto-group-mvjy-K7a .fi-rr-shopping-bag-s96 {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 0.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.resturent-website-s1N .auto-group-ct52-H56 .auto-group-i1ba-ouv .auto-group-mvjy-K7a .group-12-apC {
+  width: 2rem;
+  height: 2rem;
+  position: absolute;
+  left: 1.3rem;
+  top: 0;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #39da49;
+  border-radius: 1rem;
+}
+.resturent-website-s1N .auto-group-ct52-H56 .auto-group-qquc-zsv {
+  width: 18.9999rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-ct52-H56 .auto-group-qquc-zsv .rectangle-6-iJ8 {
+  width: 17.9rem;
+  height: 6rem;
+  position: absolute;
+  left: 1.0999rem;
+  top: 0;
+  background-color: #39da49;
+  border-radius: 4rem;
+}
+.resturent-website-s1N .auto-group-ct52-H56 .auto-group-qquc-zsv .contact-pc4 {
+  width: 8.2rem;
+  height: 3rem;
+  position: absolute;
+  left: 8.0999rem;
+  top: 1.5rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.resturent-website-s1N .auto-group-ct52-H56 .auto-group-qquc-zsv .fi-rr-phone-call-VCQ {
+  width: 2.3961rem;
+  height: 2.3961rem;
+  position: absolute;
+  left: 4.3038rem;
+  top: 1.7999rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt {
+  width: 100%;
+  height: 465.3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-yvf6-qQg {
+  width: 137.6522rem;
+  height: 75rem;
+  position: absolute;
+  left: 19.1478rem;
+  top: 286.9rem;
+  display: flex;
+  align-items: center;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-yvf6-qQg .auto-group-qada-8Pn {
+  margin-right: 14.5rem;
+  width: 57.6522rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-yvf6-qQg .auto-group-qada-8Pn .rectangle-37-4HS {
+  width: 49.2rem;
+  height: 36.2rem;
+  position: absolute;
+  left: 2.9522rem;
+  top: 36.9rem;
+  background-color: #52eb61;
+  border-radius: 14rem 14rem 4.1rem 4.1rem;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-yvf6-qQg .auto-group-qada-8Pn .chef-image-kAG {
+  width: 14.5rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 19.3522rem;
+  top: 36.9rem;
+  font-size: 2.6rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-yvf6-qQg .auto-group-qada-8Pn .mask-group-eFe {
+  width: 46.6rem;
+  height: 73.1rem;
+  position: absolute;
+  left: 2.9522rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-yvf6-qQg .auto-group-qada-8Pn .item--xn8 {
+  width: 4.6rem;
+  height: 5.4rem;
+  position: absolute;
+  left: 0;
+  top: 48.2rem;
+  text-align: center;
+  font-size: 4.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-yvf6-qQg .auto-group-qada-8Pn .item--qb2 {
+  width: 2.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 50.8887rem;
+  top: 47.198rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-yvf6-qQg .auto-group-qada-8Pn .rectangle-41-RJL {
+  width: 23rem;
+  height: 7.9rem;
+  position: absolute;
+  left: 34.6522rem;
+  top: 67.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 5rem;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-yvf6-qQg .auto-group-qada-8Pn .our-best-chef--Lw6 {
+  width: 16.2rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 39.3522rem;
+  top: 71rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #1f1f1f;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-yvf6-qQg .auto-group-keow-EWg {
+  margin: 10.8rem 0;
+  width: 65.5rem;
+  height: calc(100% - 21.6rem);
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-yvf6-qQg .auto-group-keow-EWg .testimonials-kzp {
+  margin-bottom: 5.2rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  letter-spacing: 0.35rem;
+  text-transform: uppercase;
+  color: #ff6868;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-yvf6-qQg .auto-group-keow-EWg .what-our-customers-say-about-us-sJk {
+  margin: 0rem 0rem 2.9rem 0.1rem;
+  max-width: 63.3rem;
+  font-size: 6rem;
+  font-weight: 700;
+  line-height: 1.3126877708;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-yvf6-qQg .auto-group-keow-EWg .i-had-the-pleasure-of-dining-at-foodi-last-night-and-im-still-raving-about-the-experience-the-attention-to-detail-in-presentation-and-service-was-impeccable-x5J {
+  margin: 0rem 0rem 6.5rem 0.1rem;
+  max-width: 65.4rem;
+  font-size: 2.6rem;
+  font-weight: 500;
+  line-height: 1.5899998591;
+  color: #555555;
+  font-family: Inter, 'Source Sans Pro';
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-yvf6-qQg .auto-group-keow-EWg .auto-group-vhbj-ABN {
+  margin: 0rem 14.1rem 0rem 0.1rem;
+  width: calc(100% - 14.2rem);
+  height: 8rem;
+  display: flex;
+  align-items: flex-start;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-yvf6-qQg .auto-group-keow-EWg .auto-group-vhbj-ABN .auto-group-3nys-53S {
+  margin-right: 4.4rem;
+  width: 19.4rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-yvf6-qQg .auto-group-keow-EWg .auto-group-vhbj-ABN .auto-group-3nys-53S .mask-group-wUx {
+  width: 8rem;
+  height: 8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ffe8ad;
+  border-radius: 4rem;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-yvf6-qQg .auto-group-keow-EWg .auto-group-vhbj-ABN .auto-group-3nys-53S .mask-group-wUx .auto-group-teiy-HHv {
+  width: 8rem;
+  height: 8rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-yvf6-qQg .auto-group-keow-EWg .auto-group-vhbj-ABN .auto-group-3nys-53S .mask-group-oGG {
+  width: 8rem;
+  height: 8rem;
+  position: absolute;
+  left: 5.7rem;
+  top: 0;
+  border: solid 0.6rem #ffffff;
+  box-sizing: border-box;
+  background-color: #d9d9d9;
+  border-radius: 4rem;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-yvf6-qQg .auto-group-keow-EWg .auto-group-vhbj-ABN .auto-group-3nys-53S .mask-group-oGG .auto-group-7zgc-wtG {
+  width: 8rem;
+  height: 8rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-yvf6-qQg .auto-group-keow-EWg .auto-group-vhbj-ABN .auto-group-3nys-53S .mask-group-B1v {
+  width: 8rem;
+  height: 8rem;
+  position: absolute;
+  left: 11.4rem;
+  top: 0;
+  border: solid 0.6rem #ffffff;
+  box-sizing: border-box;
+  background-color: #d9d9d9;
+  border-radius: 4rem;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-yvf6-qQg .auto-group-keow-EWg .auto-group-vhbj-ABN .auto-group-3nys-53S .mask-group-B1v .auto-group-emcx-iGk {
+  width: 8rem;
+  height: 8rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-yvf6-qQg .auto-group-keow-EWg .auto-group-vhbj-ABN .auto-group-e5xy-cN8 {
+  width: 27.5rem;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-yvf6-qQg .auto-group-keow-EWg .auto-group-vhbj-ABN .auto-group-e5xy-cN8 .customer-feedback-ZYG {
+  margin-bottom: 1.2rem;
+  font-size: 2.6rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-yvf6-qQg .auto-group-keow-EWg .auto-group-vhbj-ABN .auto-group-e5xy-cN8 .auto-group-x2ct-Uv8 {
+  margin-left: 0.0008rem;
+  width: calc(100% - 0.0008rem);
+  display: flex;
+  align-items: center;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-yvf6-qQg .auto-group-keow-EWg .auto-group-vhbj-ABN .auto-group-e5xy-cN8 .auto-group-x2ct-Uv8 .fi-sr-star-CbE {
+  margin: 0rem 1.5rem 0.239rem 0rem;
+  width: 2.3987rem;
+  height: 2.3231rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-yvf6-qQg .auto-group-keow-EWg .auto-group-vhbj-ABN .auto-group-e5xy-cN8 .auto-group-x2ct-Uv8 .item-49-iZa {
+  margin-right: 1.7rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #454545;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-yvf6-qQg .auto-group-keow-EWg .auto-group-vhbj-ABN .auto-group-e5xy-cN8 .auto-group-x2ct-Uv8 .k-reviews-SkU {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #7f7d7d;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-rmu8-AgU {
+  width: 141.5rem;
+  height: 29.7145rem;
+  position: absolute;
+  left: 15.6rem;
+  top: 384.6rem;
+  display: flex;
+  align-items: center;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-rmu8-AgU .auto-group-rxx2-VTr {
+  margin: 4.7rem 20rem 2.715rem 0rem;
+  height: calc(100% - 7.4145rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-rmu8-AgU .auto-group-rxx2-VTr .our-story-services-Due {
+  margin-bottom: 5.2rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  letter-spacing: 0.35rem;
+  text-transform: uppercase;
+  color: #ff6868;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-rmu8-AgU .auto-group-rxx2-VTr .our-culinary-journey-and-services-wKr {
+  max-width: 62.5rem;
+  font-size: 6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-rmu8-AgU .auto-group-rf7s-37z {
+  margin-right: 3.6rem;
+  box-sizing: border-box;
+  padding: 4.497rem 4.05rem 3.715rem 3.95rem;
+  width: 27.7rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0.7rem 1.2rem 4.3rem rgba(0, 0, 0, 0.1400000006);
+  background-color: #ffffff;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-rmu8-AgU .auto-group-rf7s-37z .fi-rr-salad-vxU {
+  margin: 0rem 0rem 3.2rem 0.199rem;
+  width: 6.4021rem;
+  height: 6.4026rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-rmu8-AgU .auto-group-rf7s-37z .catering-Svp {
+  margin: 0rem 0rem 1.6rem 0.1rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  text-transform: uppercase;
+  color: #005808;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-rmu8-AgU .auto-group-rf7s-37z .delight-your-guests-with-our-flavors-and-presentation-ZEk {
+  max-width: 19.7rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #909090;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-rmu8-AgU .auto-group-amgg-PUg {
+  box-sizing: border-box;
+  padding: 4.498rem 3.4rem 6.115rem 3.3rem;
+  width: 27.7rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0.7rem 1.2rem 4.3rem rgba(0, 0, 0, 0.1400000006);
+  background-color: #ffffff;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-rmu8-AgU .auto-group-amgg-PUg .fi-rr-time-fast-Um2 {
+  margin: 0rem 0rem 3.2rem 0.2rem;
+  width: 6.4001rem;
+  height: 6.4017rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-rmu8-AgU .auto-group-amgg-PUg .fast-delivery-mk8 {
+  margin: 0rem 0rem 1.6rem 0.2rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  text-transform: uppercase;
+  color: #005808;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-rmu8-AgU .auto-group-amgg-PUg .we-deliver-your-order-promptly-to-your-door-SrG {
+  max-width: 21rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #909090;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-kmjt-6R2 {
+  width: 141.5rem;
+  height: 31.0145rem;
+  position: absolute;
+  left: 15.6rem;
+  top: 416.6rem;
+  display: flex;
+  align-items: flex-start;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-kmjt-6R2 .auto-group-jwsa-ab6 {
+  margin-right: 20.7rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-kmjt-6R2 .auto-group-jwsa-ab6 .rooted-in-passion-we-curate-unforgettable-dining-experiences-and-offer-exceptional-services-blending-culinary-artistry-with-warm-hospitality-vQ4 {
+  margin-bottom: 5.4rem;
+  max-width: 61.8rem;
+  font-size: 2.6rem;
+  font-weight: 500;
+  line-height: 1.600000088;
+  color: #555555;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-kmjt-6R2 .auto-group-jwsa-ab6 .auto-group-agqa-yt8 {
+  width: 21.5rem;
+  height: 8rem;
+  font-size: 2.6rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #39da49;
+  border-radius: 4rem;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-kmjt-6R2 .auto-group-rcip-eUU {
+  margin: 1.3rem 3.6rem 0rem 0rem;
+  box-sizing: border-box;
+  padding: 4.5rem 2.9rem 3.715rem 2.8rem;
+  width: 27.7rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0.7rem 1.2rem 4.3rem rgba(0, 0, 0, 0.1400000006);
+  background-color: #ffffff;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-kmjt-6R2 .auto-group-rcip-eUU .fi-rr-shopping-cart-check-7cx {
+  margin: 0rem 0rem 3.2rem 0.194rem;
+  width: 6.3941rem;
+  height: 6.4002rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-kmjt-6R2 .auto-group-rcip-eUU .online-ordering-amS {
+  margin-bottom: 1.6rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  text-transform: uppercase;
+  color: #005808;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-kmjt-6R2 .auto-group-rcip-eUU .explore-menu-order-with-ease-using-our-online-ordering-gZa {
+  max-width: 20.7rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #909090;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-kmjt-6R2 .auto-group-dkde-Y5z {
+  margin-top: 1.3rem;
+  box-sizing: border-box;
+  padding: 4.5rem 2.4rem 3.715rem 2.3rem;
+  width: 27.7rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0.7rem 1.2rem 4.3rem rgba(0, 0, 0, 0.1400000006);
+  background-color: #ffffff;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-kmjt-6R2 .auto-group-dkde-Y5z .fi-rr-gift-3oS {
+  margin: 0rem 0rem 3.2rem 0.2rem;
+  width: 6.4rem;
+  height: 6.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-kmjt-6R2 .auto-group-dkde-Y5z .gift-cards-mzL {
+  margin-bottom: 1.6rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  text-transform: uppercase;
+  color: #005808;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-kmjt-6R2 .auto-group-dkde-Y5z .give-the-gift-of-exceptional-dining-with-foodi-gift-cards-hsz {
+  max-width: 23rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #909090;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-5yhr-PF2 {
+  width: 141.9rem;
+  height: 15.9rem;
+  position: absolute;
+  left: 15.4rem;
+  top: 190.4rem;
+  display: flex;
+  align-items: center;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-5yhr-PF2 .standout-dishes-from-our-menu-ujA {
+  max-width: 48.5rem;
+  font-size: 6rem;
+  font-weight: 700;
+  line-height: 1.3176971779;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-5yhr-PF2 .auto-group-vtp8-d9N {
+  box-sizing: border-box;
+  padding: 6.2rem 0rem 1.7rem 72.4rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-5yhr-PF2 .auto-group-vtp8-d9N .auto-group-jkt2-MLG {
+  margin-right: 5rem;
+  box-sizing: border-box;
+  padding: 3.2rem 3.824rem 3.2rem 3.4rem;
+  height: 100%;
+  background-color: #efefef;
+  border-radius: 4rem;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-5yhr-PF2 .auto-group-vtp8-d9N .auto-group-jkt2-MLG .group-1-gdS {
+  width: 0.7764rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-5yhr-PF2 .auto-group-vtp8-d9N .group-5-R5E {
+  box-sizing: border-box;
+  padding: 3.2rem 3.624rem 3.2rem 3.6rem;
+  height: 100%;
+  background-color: #39da49;
+  border-radius: 4rem;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-5yhr-PF2 .auto-group-vtp8-d9N .group-5-R5E .group-1-ZBS {
+  width: 0.7764rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .popular-catagories-UpC {
+  width: 56.4rem;
+  height: 7.3rem;
+  position: absolute;
+  left: 58.2rem;
+  top: 115.5rem;
+  text-align: center;
+  font-size: 6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .special-dishes-PAU {
+  width: 21.3rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 15.4rem;
+  top: 184rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  letter-spacing: 0.35rem;
+  text-transform: uppercase;
+  color: #ff6868;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .customer-favorites-HWk {
+  width: 29.2rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 72rem;
+  top: 110.2rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  letter-spacing: 0.35rem;
+  text-transform: uppercase;
+  color: #ff6868;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-pgwg-bGY {
+  width: 141.7rem;
+  height: 52.3rem;
+  position: absolute;
+  left: 15.5rem;
+  top: 212.5rem;
+  display: flex;
+  align-items: center;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-pgwg-bGY .auto-group-rmvn-v3v {
+  margin-right: 4rem;
+  box-sizing: border-box;
+  padding: 0rem 0rem 3.8rem 4.6rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0.2rem 0.9rem 4.2rem rgba(0, 0, 0, 0.0799999982);
+  background-color: #ffffff;
+  border-radius: 4rem;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-pgwg-bGY .auto-group-rmvn-v3v .auto-group-6qyl-dyv {
+  margin: 0rem 0rem 1.3rem 3.5rem;
+  width: 36.5rem;
+  height: 32.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-pgwg-bGY .auto-group-rmvn-v3v .auto-group-6qyl-dyv .rectangle-24-ADA {
+  width: 8.7rem;
+  height: 7.5rem;
+  position: absolute;
+  left: 27.8rem;
+  top: 0;
+  background-color: #39da49;
+  border-radius: 0 3.75rem 0 4.25rem;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-pgwg-bGY .auto-group-rmvn-v3v .auto-group-6qyl-dyv .fi-sr-heart-t9A {
+  width: 2.401rem;
+  height: 2.1096rem;
+  position: absolute;
+  left: 30.8995rem;
+  top: 2.7917rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-pgwg-bGY .auto-group-rmvn-v3v .auto-group-6qyl-dyv .fattoush-salad-1Ug {
+  width: 27.6rem;
+  height: 27.6rem;
+  position: absolute;
+  left: 0.4rem;
+  top: 3.7rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-pgwg-bGY .auto-group-rmvn-v3v .fattoush-salad-j9n {
+  margin: 0rem 18.6rem 1.8rem 0rem;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-pgwg-bGY .auto-group-rmvn-v3v .description-of-the-item-FP2 {
+  margin: 0rem 15.7rem 2.8rem 0rem;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #555555;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-pgwg-bGY .auto-group-rmvn-v3v .auto-group-fy8k-xoE {
+  margin-right: 4.4rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-pgwg-bGY .auto-group-rmvn-v3v .auto-group-fy8k-xoE .item-2400-7RE {
+  margin-right: 17.8008rem;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-pgwg-bGY .auto-group-rmvn-v3v .auto-group-fy8k-xoE .item-2400-7RE .item-2400-7RE-sub-0 {
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #ff6868;
+  font-family: Inter, 'Source Sans Pro';
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-pgwg-bGY .auto-group-rmvn-v3v .auto-group-fy8k-xoE .item-2400-7RE .item-2400-7RE-sub-1 {
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-pgwg-bGY .auto-group-rmvn-v3v .auto-group-fy8k-xoE .fi-sr-star-Vq6 {
+  margin: 0.319rem 1.5rem 0rem 0rem;
+  width: 2.3987rem;
+  height: 2.3231rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-pgwg-bGY .auto-group-rmvn-v3v .auto-group-fy8k-xoE .item-49-cui {
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #454545;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-pgwg-bGY .auto-group-cwwa-VTi {
+  margin-right: 3.9rem;
+  box-sizing: border-box;
+  padding: 0rem 0rem 3.8rem 4.6rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0.2rem 0.9rem 4.2rem rgba(0, 0, 0, 0.0799999982);
+  background-color: #ffffff;
+  border-radius: 4rem;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-pgwg-bGY .auto-group-cwwa-VTi .auto-group-zpeg-1S4 {
+  margin: 0rem 0rem 1.3rem 2.6rem;
+  width: 37.4rem;
+  height: 32.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-pgwg-bGY .auto-group-cwwa-VTi .auto-group-zpeg-1S4 .rectangle-26-vZ2 {
+  width: 8.7rem;
+  height: 7.5rem;
+  position: absolute;
+  left: 28.7rem;
+  top: 0;
+  background-color: #39da49;
+  border-radius: 0 3.75rem 0 4.25rem;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-pgwg-bGY .auto-group-cwwa-VTi .auto-group-zpeg-1S4 .fi-br-heart-SnG {
+  width: 2.4018rem;
+  height: 2.1228rem;
+  position: absolute;
+  left: 31.8996rem;
+  top: 2.7851rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-pgwg-bGY .auto-group-cwwa-VTi .auto-group-zpeg-1S4 .vegetable-salad-ynC {
+  width: 27.6rem;
+  height: 27.6rem;
+  position: absolute;
+  left: 1.2rem;
+  top: 3.7rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-pgwg-bGY .auto-group-cwwa-VTi .vegetable-salad-hiC {
+  margin: 0rem 16.7rem 1.8rem 0rem;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-pgwg-bGY .auto-group-cwwa-VTi .description-of-the-item-S9z {
+  margin: 0rem 15.7rem 2.8rem 0rem;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #555555;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-pgwg-bGY .auto-group-cwwa-VTi .auto-group-lmec-Yyi {
+  margin-right: 4.3rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-pgwg-bGY .auto-group-cwwa-VTi .auto-group-lmec-Yyi .item-2600-hLp {
+  margin-right: 17.9008rem;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-pgwg-bGY .auto-group-cwwa-VTi .auto-group-lmec-Yyi .item-2600-hLp .item-2600-hLp-sub-0 {
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #ff6868;
+  font-family: Inter, 'Source Sans Pro';
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-pgwg-bGY .auto-group-cwwa-VTi .auto-group-lmec-Yyi .item-2600-hLp .item-2600-hLp-sub-1 {
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-pgwg-bGY .auto-group-cwwa-VTi .auto-group-lmec-Yyi .fi-sr-star-gTe {
+  margin: 0.319rem 1.5rem 0rem 0rem;
+  width: 2.3987rem;
+  height: 2.3231rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-pgwg-bGY .auto-group-cwwa-VTi .auto-group-lmec-Yyi .item-46-nWg {
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #454545;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-pgwg-bGY .auto-group-9nvq-s2L {
+  box-sizing: border-box;
+  padding: 0rem 0rem 4.1rem 4.6rem;
+  width: 44.6rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0.2rem 0.9rem 4.2rem rgba(0, 0, 0, 0.0799999982);
+  background-color: #ffffff;
+  border-radius: 4rem;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-pgwg-bGY .auto-group-9nvq-s2L .auto-group-uesv-aSY {
+  margin: 0rem 0rem 2.5rem 3.7rem;
+  width: calc(100% - 3.7rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-pgwg-bGY .auto-group-9nvq-s2L .auto-group-uesv-aSY .auto-group-tc8k-ty2 {
+  margin-top: 3.5rem;
+  width: 27.6rem;
+  height: 27.8rem;
+  box-shadow: 0.2rem 0.5rem 0.9rem rgba(0, 0, 0, 0.400000006);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/egg-salad-bg.png');
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-pgwg-bGY .auto-group-9nvq-s2L .auto-group-uesv-aSY .auto-group-oa5a-9e4 {
+  margin-bottom: 23.8rem;
+  box-sizing: border-box;
+  padding: 2.785rem 3.099rem 2.592rem 3.2rem;
+  background-color: #39da49;
+  border-radius: 0 3.75rem 0 4.25rem;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-pgwg-bGY .auto-group-9nvq-s2L .auto-group-uesv-aSY .auto-group-oa5a-9e4 .fi-br-heart-4W8 {
+  width: 2.4018rem;
+  height: 2.1228rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-pgwg-bGY .auto-group-9nvq-s2L .egg-vegi-salad-B4x {
+  margin: 0rem 19rem 1.8rem 0rem;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-pgwg-bGY .auto-group-9nvq-s2L .description-of-the-item-6Sp {
+  margin: 0rem 15.7rem 2.5rem 0rem;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #555555;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-pgwg-bGY .auto-group-9nvq-s2L .auto-group-otxn-cg4 {
+  margin-right: 4.3rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-pgwg-bGY .auto-group-9nvq-s2L .auto-group-otxn-cg4 .item-2300-ZbJ {
+  margin-right: 18.3008rem;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.2102272727;
+  color: #505050;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-pgwg-bGY .auto-group-9nvq-s2L .auto-group-otxn-cg4 .item-2300-ZbJ .item-2300-ZbJ-sub-0 {
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #ff6868;
+  font-family: Inter, 'Source Sans Pro';
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-pgwg-bGY .auto-group-9nvq-s2L .auto-group-otxn-cg4 .item-2300-ZbJ .item-2300-ZbJ-sub-1 {
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #010101;
+  font-family: Inter, 'Source Sans Pro';
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-pgwg-bGY .auto-group-9nvq-s2L .auto-group-otxn-cg4 .fi-sr-star-fGx {
+  margin: 0rem 1.5rem 0.139rem 0rem;
+  width: 2.3987rem;
+  height: 2.3231rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-pgwg-bGY .auto-group-9nvq-s2L .auto-group-otxn-cg4 .item-45-aui {
+  margin-bottom: 0.1rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #454545;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-qtnt-eua {
+  width: 141.8rem;
+  height: 32.6rem;
+  position: absolute;
+  left: 15.5rem;
+  top: 130.6rem;
+  display: flex;
+  column-gap: 3.8rem;
+  align-items: center;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-qtnt-eua .auto-group-sekn-yBA {
+  box-sizing: border-box;
+  padding: 3.9rem 8.6rem 4.6rem 8.7rem;
+  width: 32.6rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0.2rem 1rem 3rem rgba(0, 0, 0, 0.1000000015);
+  background-color: #ffffff;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-qtnt-eua .auto-group-sekn-yBA .auto-group-nvmw-U7v {
+  margin-bottom: 1.3rem;
+  width: 100%;
+  height: 15.3rem;
+  position: relative;
+  background-color: #c1f1c6;
+  border-radius: 7.65rem;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-qtnt-eua .auto-group-sekn-yBA .auto-group-nvmw-U7v .ellipse-14-CZi {
+  width: 7.1rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 4.2rem;
+  top: 9.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-qtnt-eua .auto-group-sekn-yBA .auto-group-nvmw-U7v .pngwing-4-XM6 {
+  width: 13.9rem;
+  height: 10.2rem;
+  position: absolute;
+  left: 0.7rem;
+  top: 2.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-qtnt-eua .auto-group-sekn-yBA .main-dish-cNY {
+  margin-bottom: 1.1rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #1e1e1e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-qtnt-eua .auto-group-sekn-yBA .dishes-8bn {
+  margin-right: 0.1rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #555555;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-qtnt-eua .auto-group-wbue-xqi {
+  box-sizing: border-box;
+  padding: 3.9rem 8.5rem 4.6rem 8.4rem;
+  width: 32.6rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0.2rem 1rem 3rem rgba(0, 0, 0, 0.1000000015);
+  background-color: #ffffff;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-qtnt-eua .auto-group-wbue-xqi .auto-group-zg5j-36U {
+  margin: 0rem 0.4rem 1.3rem 0rem;
+  width: 15.3rem;
+  height: 15.3rem;
+  position: relative;
+  background-color: #c1f1c6;
+  border-radius: 7.65rem;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-qtnt-eua .auto-group-wbue-xqi .auto-group-zg5j-36U .ellipse-17-M7A {
+  width: 6.468rem;
+  height: 1.7538rem;
+  position: absolute;
+  left: 2.866rem;
+  top: 8.1231rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-qtnt-eua .auto-group-wbue-xqi .auto-group-zg5j-36U .ellipse-18-Uha {
+  width: 4.627rem;
+  height: 4.2214rem;
+  position: absolute;
+  left: 7.637rem;
+  top: 6.647rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-qtnt-eua .auto-group-wbue-xqi .auto-group-zg5j-36U .pngwing-6-cHz {
+  width: 11rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 3.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-qtnt-eua .auto-group-wbue-xqi .break-fast-7Ve {
+  margin: 0rem 0rem 1.1rem 0.3rem;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #1e1e1e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-qtnt-eua .auto-group-wbue-xqi .break-fast-SH2 {
+  margin-left: 0.1rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #555555;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-qtnt-eua .auto-group-umcy-iVS {
+  box-sizing: border-box;
+  padding: 3.9rem 8.7rem 4.6rem 8.6rem;
+  width: 32.6rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0.2rem 1rem 3rem rgba(0, 0, 0, 0.1000000015);
+  background-color: #ffffff;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-qtnt-eua .auto-group-umcy-iVS .auto-group-ogpc-ECt {
+  margin-bottom: 1.3rem;
+  width: 100%;
+  height: 15.3rem;
+  position: relative;
+  background-color: #c0f1c5;
+  border-radius: 7.65rem;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-qtnt-eua .auto-group-umcy-iVS .auto-group-ogpc-ECt .ellipse-13-mic {
+  width: 4.6rem;
+  height: 1.3rem;
+  position: absolute;
+  left: 5.4rem;
+  top: 10.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-qtnt-eua .auto-group-umcy-iVS .auto-group-ogpc-ECt .pngwing-3-71n {
+  width: 11.1rem;
+  height: 9.8rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 2.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-qtnt-eua .auto-group-umcy-iVS .dessert-RYG {
+  margin-bottom: 1.1rem;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #1e1e1e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-qtnt-eua .auto-group-umcy-iVS .dessert-mME {
+  margin-left: 0.1rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #555555;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-qtnt-eua .auto-group-myti-SiG {
+  box-sizing: border-box;
+  padding: 3.9rem 8.7rem 4.6rem 8.6rem;
+  width: 32.6rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0.2rem 1rem 3rem rgba(0, 0, 0, 0.1000000015);
+  background-color: #ffffff;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-qtnt-eua .auto-group-myti-SiG .auto-group-k6hs-APN {
+  margin-bottom: 1.3rem;
+  width: 100%;
+  height: 15.3rem;
+  position: relative;
+  background-color: #c1f1c6;
+  border-radius: 7.65rem;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-qtnt-eua .auto-group-myti-SiG .auto-group-k6hs-APN .ellipse-19-VgY {
+  width: 3rem;
+  height: 1.2rem;
+  position: absolute;
+  left: 5.8rem;
+  top: 10.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-qtnt-eua .auto-group-myti-SiG .auto-group-k6hs-APN .ellipse-20-2wN {
+  width: 3rem;
+  height: 1.2rem;
+  position: absolute;
+  left: 8.2rem;
+  top: 10.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-qtnt-eua .auto-group-myti-SiG .auto-group-k6hs-APN .pngwing-7-Mye {
+  width: 7.7rem;
+  height: 9.2rem;
+  position: absolute;
+  left: 3.8rem;
+  top: 3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-qtnt-eua .auto-group-myti-SiG .browse-all-gFE {
+  margin-bottom: 1.1rem;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #1e1e1e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-qtnt-eua .auto-group-myti-SiG .items-p6Y {
+  margin-left: 0.1rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #555555;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-r1cp-guS {
+  width: 143.9rem;
+  height: 86.85rem;
+  position: absolute;
+  left: 15.3rem;
+  top: 4.35rem;
+  display: flex;
+  align-items: center;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-r1cp-guS .auto-group-jrvg-1gp {
+  margin: 18.65rem 7.1rem 20.4rem 0rem;
+  height: calc(100% - 39.05rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-r1cp-guS .auto-group-jrvg-1gp .dive-into-delights-of-delectable-food-jcp {
+  margin-bottom: 5.8rem;
+  max-width: 58.1rem;
+  font-size: 6.2rem;
+  font-weight: 700;
+  line-height: 1.4552273904;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-r1cp-guS .auto-group-jrvg-1gp .dive-into-delights-of-delectable-food-jcp .dive-into-delights-of-delectable-food-jcp-sub-0 {
+  font-size: 6.2rem;
+  font-weight: 800;
+  line-height: 1.4552273904;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-r1cp-guS .auto-group-jrvg-1gp .dive-into-delights-of-delectable-food-jcp .dive-into-delights-of-delectable-food-jcp-sub-1 {
+  font-size: 6.2rem;
+  font-weight: 800;
+  line-height: 1.4552273904;
+  color: #39da49;
+  font-family: Inter, 'Source Sans Pro';
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-r1cp-guS .auto-group-jrvg-1gp .where-each-plate-weaves-a-story-of-culinary-mastery-and-passionate-craftsmanship-a1A {
+  margin-bottom: 6.7rem;
+  max-width: 56.1rem;
+  font-size: 2.6rem;
+  font-weight: 500;
+  line-height: 1.7050000704;
+  color: #4a4a4a;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-r1cp-guS .auto-group-jrvg-1gp .auto-group-d75w-sW4 {
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-r1cp-guS .auto-group-jrvg-1gp .auto-group-d75w-sW4 .auto-group-ldjk-ELc {
+  margin: 0.3rem 3.5rem 0rem 0rem;
+  width: 22.9rem;
+  height: 8rem;
+  font-size: 2.6rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: -0.2rem 2.2rem 3.8rem rgba(142, 255, 153, 0.5);
+  background-color: #39da49;
+  border-radius: 4rem;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-r1cp-guS .auto-group-jrvg-1gp .auto-group-d75w-sW4 .watch-video-TjA {
+  margin: 0.5rem 2.9rem 0rem 0rem;
+  font-size: 2.6rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #4c4c4c;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-r1cp-guS .auto-group-jrvg-1gp .auto-group-d75w-sW4 .auto-group-jmvk-zDJ {
+  margin-bottom: 0.3rem;
+  box-sizing: border-box;
+  padding: 2.2rem 2.2rem 2.2rem 2.2rem;
+  box-shadow: 0.6rem 2.7rem 3.4rem rgba(0, 0, 0, 0.1000000015);
+  background-color: #ffffff;
+  border-radius: 4rem;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-r1cp-guS .auto-group-jrvg-1gp .auto-group-d75w-sW4 .auto-group-jmvk-zDJ .polygon-1-WSY {
+  width: 3.6rem;
+  height: 3.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.3rem;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-r1cp-guS .auto-group-wxhe-BHn {
+  width: 78.7rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-r1cp-guS .auto-group-wxhe-BHn .rectangle-9-5tx {
+  width: 66.2703rem;
+  height: 65.3969rem;
+  position: absolute;
+  left: 12.4rem;
+  top: 14.3347rem;
+  background-color: #52eb61;
+  border-radius: 50rem;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-r1cp-guS .auto-group-wxhe-BHn .intersect-CCt {
+  width: 72.2203rem;
+  height: 79.7316rem;
+  position: absolute;
+  left: 6.45rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-r1cp-guS .auto-group-wxhe-BHn .rectangle-19-vua {
+  width: 34.9rem;
+  height: 13.2rem;
+  position: absolute;
+  left: 43.8rem;
+  top: 73.65rem;
+  box-shadow: 0.7rem 3.5rem 5.1rem rgba(0, 0, 0, 0.1400000006);
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-r1cp-guS .auto-group-wxhe-BHn .vegetarian-salad-RbS {
+  width: 17.9rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 58.4rem;
+  top: 75.35rem;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #2b2b2b;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-r1cp-guS .auto-group-wxhe-BHn .item-2300-KRv {
+  width: 7.7rem;
+  height: 3rem;
+  position: absolute;
+  left: 58.4rem;
+  top: 81.65rem;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.2102272727;
+  color: #505050;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-r1cp-guS .auto-group-wxhe-BHn .item-2300-KRv .item-2300-KRv-sub-0 {
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #ff7979;
+  font-family: Inter, 'Source Sans Pro';
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-r1cp-guS .auto-group-wxhe-BHn .item-2300-KRv .item-2300-KRv-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #505050;
+  font-family: Inter, 'Source Sans Pro';
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-r1cp-guS .auto-group-wxhe-BHn .item-2300-R7a {
+  width: 7.7rem;
+  height: 3rem;
+  position: absolute;
+  left: 18rem;
+  top: 81.65rem;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.2102272727;
+  color: #505050;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-r1cp-guS .auto-group-wxhe-BHn .item-2300-R7a .item-2300-R7a-sub-0 {
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #ff7979;
+  font-family: Inter, 'Source Sans Pro';
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-r1cp-guS .auto-group-wxhe-BHn .item-2300-R7a .item-2300-R7a-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #505050;
+  font-family: Inter, 'Source Sans Pro';
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-r1cp-guS .auto-group-wxhe-BHn .group-6-aPn {
+  box-sizing: border-box;
+  padding: 0.012rem 0rem 0.012rem 0.001rem;
+  width: 10.8rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 58.4rem;
+  top: 79.05rem;
+  display: flex;
+  align-items: center;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-r1cp-guS .auto-group-wxhe-BHn .group-6-aPn .fi-sr-star-TTa {
+  margin: 0rem 0.701rem 0.026rem 0rem;
+  width: 1.5991rem;
+  height: 1.5488rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-r1cp-guS .auto-group-wxhe-BHn .group-6-aPn .fi-sr-star-yB2 {
+  margin: 0rem 0.701rem 0.026rem 0rem;
+  width: 1.5991rem;
+  height: 1.5488rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-r1cp-guS .auto-group-wxhe-BHn .group-6-aPn .fi-sr-star-tYt {
+  margin: 0rem 0.701rem 0.026rem 0rem;
+  width: 1.5991rem;
+  height: 1.5488rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-r1cp-guS .auto-group-wxhe-BHn .group-6-aPn .fi-sr-star-cjn {
+  margin: 0rem 0.701rem 0.026rem 0rem;
+  width: 1.5991rem;
+  height: 1.5488rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-r1cp-guS .auto-group-wxhe-BHn .group-6-aPn .fi-br-star-9ji {
+  margin-bottom: 0.026rem;
+  width: 1.5995rem;
+  height: 1.5509rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-r1cp-guS .auto-group-wxhe-BHn .group-8-tSQ {
+  box-sizing: border-box;
+  padding: 0.012rem 0rem 0.012rem 0.001rem;
+  width: 10.8rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 18rem;
+  top: 79.05rem;
+  display: flex;
+  align-items: center;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-r1cp-guS .auto-group-wxhe-BHn .group-8-tSQ .fi-sr-star-yye {
+  margin: 0rem 0.701rem 0.026rem 0rem;
+  width: 1.5991rem;
+  height: 1.5488rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-r1cp-guS .auto-group-wxhe-BHn .group-8-tSQ .fi-sr-star-74G {
+  margin: 0rem 0.701rem 0.026rem 0rem;
+  width: 1.5991rem;
+  height: 1.5488rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-r1cp-guS .auto-group-wxhe-BHn .group-8-tSQ .fi-sr-star-2wv {
+  margin: 0rem 3.001rem 0.026rem 0rem;
+  width: 1.5991rem;
+  height: 1.5488rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-r1cp-guS .auto-group-wxhe-BHn .group-8-tSQ .fi-br-star-MjJ {
+  margin-bottom: 0.026rem;
+  width: 1.5995rem;
+  height: 1.5509rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-r1cp-guS .auto-group-wxhe-BHn .item-2300-6wn {
+  width: 7.7rem;
+  height: 3rem;
+  position: absolute;
+  left: 58.4rem;
+  top: 81.65rem;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.2102272727;
+  color: #505050;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-r1cp-guS .auto-group-wxhe-BHn .item-2300-6wn .item-2300-6wn-sub-0 {
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #ff7979;
+  font-family: Inter, 'Source Sans Pro';
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-r1cp-guS .auto-group-wxhe-BHn .item-2300-6wn .item-2300-6wn-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #505050;
+  font-family: Inter, 'Source Sans Pro';
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-r1cp-guS .auto-group-wxhe-BHn .fi-sr-star-coe {
+  width: 1.5991rem;
+  height: 1.5488rem;
+  position: absolute;
+  left: 58.4006rem;
+  top: 79.0627rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-r1cp-guS .auto-group-wxhe-BHn .fi-sr-star-YhJ {
+  width: 1.5991rem;
+  height: 1.5488rem;
+  position: absolute;
+  left: 60.7006rem;
+  top: 79.0627rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-r1cp-guS .auto-group-wxhe-BHn .fi-sr-star-5x8 {
+  width: 1.5991rem;
+  height: 1.5488rem;
+  position: absolute;
+  left: 63.0006rem;
+  top: 79.0627rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-r1cp-guS .auto-group-wxhe-BHn .fi-sr-star-RFJ {
+  width: 1.5991rem;
+  height: 1.5488rem;
+  position: absolute;
+  left: 65.3006rem;
+  top: 79.0627rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-r1cp-guS .auto-group-wxhe-BHn .fi-br-star-xW8 {
+  width: 1.5995rem;
+  height: 1.5509rem;
+  position: absolute;
+  left: 67.6002rem;
+  top: 79.0615rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-r1cp-guS .auto-group-wxhe-BHn .group-15-6cL {
+  width: 24.8rem;
+  height: 6.7rem;
+  position: absolute;
+  left: 0;
+  top: 17.75rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #ff6868;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-24.png');
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-r1cp-guS .auto-group-wxhe-BHn .rectangle-36-myN {
+  width: 12.4rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 10.8rem;
+  top: 72.25rem;
+  filter: blur(4rem);
+  background-color: #646464;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-r1cp-guS .auto-group-wxhe-BHn .rectangle-22-uZn {
+  width: 34.9rem;
+  height: 13.2rem;
+  position: absolute;
+  left: 3.4rem;
+  top: 73.65rem;
+  box-shadow: 0.7rem 3.5rem 5.1rem rgba(0, 0, 0, 0.1400000006);
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-r1cp-guS .auto-group-wxhe-BHn .group-9-ov4 {
+  width: 15rem;
+  height: 9.3rem;
+  position: absolute;
+  left: 18rem;
+  top: 75.35rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-r1cp-guS .auto-group-wxhe-BHn .group-9-ov4 .spicy-noodles-9DE {
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #2b2b2b;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-r1cp-guS .auto-group-wxhe-BHn .group-9-ov4 .auto-group-dvgq-gDA {
+  box-sizing: border-box;
+  padding-top: 1rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-r1cp-guS .auto-group-wxhe-BHn .group-9-ov4 .auto-group-dvgq-gDA .group-6-d8Q {
+  margin-bottom: 1rem;
+  box-sizing: border-box;
+  padding: 0.012rem 0rem 0.012rem 0.001rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-r1cp-guS .auto-group-wxhe-BHn .group-9-ov4 .auto-group-dvgq-gDA .group-6-d8Q .fi-sr-star-wet {
+  margin: 0rem 0.701rem 0.026rem 0rem;
+  width: 1.5991rem;
+  height: 1.5488rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-r1cp-guS .auto-group-wxhe-BHn .group-9-ov4 .auto-group-dvgq-gDA .group-6-d8Q .fi-sr-star-5FJ {
+  margin: 0rem 0.701rem 0.026rem 0rem;
+  width: 1.5991rem;
+  height: 1.5488rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-r1cp-guS .auto-group-wxhe-BHn .group-9-ov4 .auto-group-dvgq-gDA .group-6-d8Q .fi-sr-star-ahr {
+  margin: 0rem 0.801rem 0.026rem 0rem;
+  width: 1.5991rem;
+  height: 1.5488rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-r1cp-guS .auto-group-wxhe-BHn .group-9-ov4 .auto-group-dvgq-gDA .group-6-d8Q .fi-br-star-WbW {
+  margin: 0rem 0.601rem 0.026rem 0rem;
+  width: 1.5995rem;
+  height: 1.5509rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-r1cp-guS .auto-group-wxhe-BHn .group-9-ov4 .auto-group-dvgq-gDA .group-6-d8Q .fi-br-star-qtg {
+  margin-bottom: 0.026rem;
+  width: 1.5995rem;
+  height: 1.5509rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-r1cp-guS .auto-group-wxhe-BHn .group-9-ov4 .auto-group-dvgq-gDA .item-1800-nZ2 {
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.2102272727;
+  color: #505050;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-r1cp-guS .auto-group-wxhe-BHn .group-9-ov4 .auto-group-dvgq-gDA .item-1800-nZ2 .item-1800-nZ2-sub-0 {
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #ff7979;
+  font-family: Inter, 'Source Sans Pro';
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-r1cp-guS .auto-group-wxhe-BHn .group-9-ov4 .auto-group-dvgq-gDA .item-1800-nZ2 .item-1800-nZ2-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #505050;
+  font-family: Inter, 'Source Sans Pro';
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-r1cp-guS .auto-group-wxhe-BHn .group-9-ov4 .auto-group-dvgq-gDA .item-1800-nZ2 .item-1800-nZ2-sub-2 {
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #505050;
+  font-family: Inter, 'Source Sans Pro';
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-r1cp-guS .auto-group-wxhe-BHn .mask-group-eje {
+  width: 9.8rem;
+  height: 9.8rem;
+  position: absolute;
+  left: 45.8rem;
+  top: 75.35rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.resturent-website-s1N .auto-group-y8nx-6xt .auto-group-r1cp-guS .auto-group-wxhe-BHn .mask-group-NvY {
+  width: 9.8rem;
+  height: 9.8rem;
+  position: absolute;
+  left: 5.4rem;
+  top: 75.35rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.resturent-website-s1N .auto-group-z2ag-HXi {
+  box-sizing: border-box;
+  padding: 7.1rem 18rem 5.9rem 15.4rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #e3ffe6;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-z2ag-HXi .auto-group-6b56-1Cp {
+  margin: 0rem 9.6rem 2.1rem 0rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-z2ag-HXi .auto-group-6b56-1Cp .auto-group-esmi-8HS {
+  margin: 0.5rem 0.47rem 0rem 0rem;
+  width: 3.4rem;
+  height: 4.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-z2ag-HXi .auto-group-6b56-1Cp .oodi-FN4 {
+  margin: 1.25rem 37.711rem 0rem 0rem;
+  width: 7.0193rem;
+  height: 2.2836rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-z2ag-HXi .auto-group-6b56-1Cp .useful-links-aQL {
+  margin-right: 17.7rem;
+  font-size: 2.6rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-z2ag-HXi .auto-group-6b56-1Cp .main-menu-iFe {
+  margin-right: 20.8rem;
+  font-size: 2.6rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-z2ag-HXi .auto-group-6b56-1Cp .contact-us-SxL {
+  font-size: 2.6rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-z2ag-HXi .auto-group-6m7z-zDA {
+  margin-bottom: 3rem;
+  width: 100%;
+  height: 15rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-z2ag-HXi .auto-group-6m7z-zDA .savor-the-artistry-where-every-dish-is-a-culinary-masterpiece-iur {
+  margin: 0rem 20.9rem 0.9rem 0rem;
+  max-width: 27.7rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.508053998;
+  color: #555555;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-z2ag-HXi .auto-group-6m7z-zDA .auto-group-ecjp-cEY {
+  margin-right: 22.1rem;
+  height: 100%;
+  row-gap: 3rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-z2ag-HXi .auto-group-6m7z-zDA .auto-group-ecjp-cEY .about-us-jpx {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #555555;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-z2ag-HXi .auto-group-6m7z-zDA .auto-group-ecjp-cEY .events-tC4 {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #555555;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-z2ag-HXi .auto-group-6m7z-zDA .auto-group-ecjp-cEY .blogs-pbW {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #555555;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-z2ag-HXi .auto-group-6m7z-zDA .auto-group-dkyv-xxc {
+  margin-right: 26.9rem;
+  height: 100%;
+  row-gap: 3rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-z2ag-HXi .auto-group-6m7z-zDA .auto-group-dkyv-xxc .home-74p {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #555555;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-z2ag-HXi .auto-group-6m7z-zDA .auto-group-dkyv-xxc .offers-FB2 {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #555555;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-z2ag-HXi .auto-group-6m7z-zDA .auto-group-dkyv-xxc .menus-z8c {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #555555;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-z2ag-HXi .auto-group-6m7z-zDA .auto-group-femj-HtQ {
+  height: 100%;
+  row-gap: 3rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-z2ag-HXi .auto-group-6m7z-zDA .auto-group-femj-HtQ .exampleemailcom-2b6 {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #555555;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-z2ag-HXi .auto-group-6m7z-zDA .auto-group-femj-HtQ .item-64-958-248-966-NQ4 {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #555555;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-z2ag-HXi .auto-group-6m7z-zDA .auto-group-femj-HtQ .social-media-Vja {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #555555;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-z2ag-HXi .auto-group-hr6g-dat {
+  margin: 0rem 44.7rem 9.8rem 48.6rem;
+  width: calc(100% - 93.3rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-z2ag-HXi .auto-group-hr6g-dat .faq-kvQ {
+  margin-right: 27.7rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #555555;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-z2ag-HXi .auto-group-hr6g-dat .reservation-tWp {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #555555;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-z2ag-HXi .auto-group-1mp8-Doz {
+  margin-right: 43.5rem;
+  height: 5.7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-z2ag-HXi .auto-group-1mp8-Doz .auto-group-qfpi-9Sk {
+  margin-right: 1.9rem;
+  box-sizing: border-box;
+  padding: 1.6rem 2.2rem 1.555rem 2.2rem;
+  height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-7.png');
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-z2ag-HXi .auto-group-1mp8-Doz .auto-group-qfpi-9Sk .icon-facebook-GXN {
+  width: 1.4rem;
+  height: 2.5455rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.resturent-website-s1N .auto-group-z2ag-HXi .auto-group-1mp8-Doz .auto-group-mcpk-aY4 {
+  margin-right: 1.9rem;
+  box-sizing: border-box;
+  padding: 1.8rem 1.8rem 1.7rem 1.7rem;
+  height: 100%;
+  background-color: #ecffee;
+  border-radius: 2.85rem;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-z2ag-HXi .auto-group-1mp8-Doz .auto-group-mcpk-aY4 .icon-instagram-uaL {
+  width: 2.2rem;
+  height: 2.2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.resturent-website-s1N .auto-group-z2ag-HXi .auto-group-1mp8-Doz .auto-group-oxz2-E6p {
+  margin-right: 2.1rem;
+  box-sizing: border-box;
+  padding: 1.8rem 1.6rem 1.779rem 1.6rem;
+  height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-9.png');
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-z2ag-HXi .auto-group-1mp8-Doz .auto-group-oxz2-E6p .icon-twitter-YtC {
+  width: 2.6rem;
+  height: 2.1206rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.resturent-website-s1N .auto-group-z2ag-HXi .auto-group-1mp8-Doz .auto-group-d7gp-4be {
+  margin-right: 17rem;
+  box-sizing: border-box;
+  padding: 1.9rem 1.5rem 1.883rem 1.6rem;
+  height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-10.png');
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-z2ag-HXi .auto-group-1mp8-Doz .auto-group-d7gp-4be .icon-youtube-apt {
+  width: 2.7rem;
+  height: 1.917rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.resturent-website-s1N .auto-group-z2ag-HXi .auto-group-1mp8-Doz .group-14-7K2 {
+  margin: 1.5rem 0;
+  width: 49.7rem;
+  height: calc(100% - 3rem);
+  position: relative;
+  flex-shrink: 0;
+}
+.resturent-website-s1N .auto-group-z2ag-HXi .auto-group-1mp8-Doz .group-14-7K2 .copyright-2023-dscode-all-rights-reserved-EuS {
+  width: 49.7rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #555555;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.resturent-website-s1N .auto-group-z2ag-HXi .auto-group-1mp8-Doz .group-14-7K2 .fi-rr-copyright-XtY {
+  width: 1.8rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 11.7rem;
+  top: 0.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
